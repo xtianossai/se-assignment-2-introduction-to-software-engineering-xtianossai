@@ -94,6 +94,7 @@ Centralised repository, atomic commits, file locking, directory versioning, effi
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
 Role of a s software project manager and some key responsibilities are as follows;
 1. Team Management: They assemble a team with neccessary skills, facilitating effective communication among the team members and skaeholders. Addressing and resolving any disputes within the team.
 2. Project Planning and Scheduling: Outlining the project's objectives, deliverables, and requirements. Creating timelines and determining the necessary resources, such as team members, tools and budgets.
